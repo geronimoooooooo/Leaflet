@@ -1,0 +1,38 @@
+{
+    "type": "Feature",
+    "properties": {"party": "Republican"},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-104.05, 48.99],
+            [-97.22,  48.98],
+            [-96.58,  45.94],
+            [-104.03, 45.94],
+            [-104.05, 48.99]
+        ]]
+    }
+}
+
+
+{
+  "type": "Feature",
+  "properties": {
+    "SamplingFOIName": "LkwAlias_881632654508",
+    "SamplingFOIIdentifier": "LkwID_881632654508",
+    "ObservationPhenomenonTime": "2015-10-29T16:26:31Z"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.038782998184578,
+      47.82329099489709,
+      423.4
+    ],
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "EPSG:4326"
+      }
+    }
+  }
+}
