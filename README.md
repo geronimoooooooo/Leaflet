@@ -23,10 +23,13 @@ basemaps:
 
 Note: GeoJSON requires that points are specified in the order of [longitude, latitude] rather than the [latitude, longitude] that Leaflet.js expects.
 
+##
 slider:
 * http://rowanwinsemius.id.au/blog/mapping-species-movement-data-using-leaflet-js/
 * http://robinlovelace.net/sketches/goAtyla/index.html
 * https://github.com/dwilhelm89/LeafletSlider
 * http://www.liedman.net/leaflet-realtime/
 * https://github.com/hallahan/LeafletPlayback
-** http://leafletplayback.theoutpost.io/
+* http://leafletplayback.theoutpost.io/
+* https://github.com/perliedman/leaflet-realtime
+* https://github.com/skeate/Leaflet.timeline
