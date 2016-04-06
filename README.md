@@ -11,7 +11,7 @@ Leaflet can't deal with projected coordinates; it requires unprojected lat/long 
 
 Leaflet book: http://files2.syncfusion.com/Downloads/Ebooks/Leafletjs_Succinctly.pdf
 
-http://www.appswithmaps.net/leaflet/extentfinder/
+http://www.appswithmaps.net/leaflet/extentfinder/, http://www.appswithmaps.net/leaflet/mapdraw/
 
 
 basemaps:
