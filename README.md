@@ -10,6 +10,7 @@ leatlef map: https://wjst.de/images/gps/index.php#6/46.050/14.952
 Leaflet can't deal with projected coordinates; it requires unprojected lat/long (decimal degree): http://stackoverflow.com/questions/30510969/leaflet-geojson
 
 Leaflet book: http://files2.syncfusion.com/Downloads/Ebooks/Leafletjs_Succinctly.pdf
+jsfiddle: http://fiddle.jshell.net/nathansnider/sk0ae07u/
 
 http://www.appswithmaps.net/leaflet/extentfinder/, http://www.appswithmaps.net/leaflet/mapdraw/
 
@@ -21,3 +22,11 @@ basemaps:
 
 
 Note: GeoJSON requires that points are specified in the order of [longitude, latitude] rather than the [latitude, longitude] that Leaflet.js expects.
+
+slider:
+* http://rowanwinsemius.id.au/blog/mapping-species-movement-data-using-leaflet-js/
+* http://robinlovelace.net/sketches/goAtyla/index.html
+* https://github.com/dwilhelm89/LeafletSlider
+* http://www.liedman.net/leaflet-realtime/
+* https://github.com/hallahan/LeafletPlayback
+** http://leafletplayback.theoutpost.io/
