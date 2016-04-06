@@ -23,8 +23,7 @@ basemaps:
 
 Note: GeoJSON requires that points are specified in the order of [longitude, latitude] rather than the [latitude, longitude] that Leaflet.js expects.
 
-##
-slider:
+#slider:
 * http://rowanwinsemius.id.au/blog/mapping-species-movement-data-using-leaflet-js/
 * http://robinlovelace.net/sketches/goAtyla/index.html
 * https://github.com/dwilhelm89/LeafletSlider
@@ -33,3 +32,6 @@ slider:
 * http://leafletplayback.theoutpost.io/
 * https://github.com/perliedman/leaflet-realtime
 * https://github.com/skeate/Leaflet.timeline
+
+
+A geofence is basically a “virtual barrier.” When something enters a specified area, an alert is triggered.
